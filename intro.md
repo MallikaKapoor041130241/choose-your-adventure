@@ -14,7 +14,7 @@ As you step closer, the door creaks open on its own. The hallway inside is pitch
 Your pulse quickens as the wind howls behind you, and the door slams shut.  
 
 **What will you do next?**  
-1. [Take the Left Hallway] 
-2. [Take the Right Hallway]
-3. [Climb the Spiral Staircase] 
-4. [Open the Basement Door]  
+1. [Take the Left Hallway](left-hallway.md)  
+2. [Take the Right Hallway](right-hallway.md)  
+3. [Climb the Spiral Staircase](spiral-staircase.md)  
+4. [Open the Basement Door](basement-door.md)  

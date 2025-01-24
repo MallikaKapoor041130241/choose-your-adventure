@@ -5,8 +5,8 @@ You step into the dark hallway. The sound of faint crying grows louder with each
 Suddenly, the crying stops. The silence is deafening. You hear a faint whisper directly behind you:  
 "Why did you come here?"  
 
-You turn around, but no one is there.  
+You turn around, but the space is empty—no footsteps, no presence, only the silence pressing in around you.
 
-Ahead, the hallway splits into two:  
+Before you, the hallway forks into two distinct paths, each shrouded in its own mystery. 
 1. [Follow the sound of footsteps](footsteps.md)  
 2. [Enter the room with the flickering light](flickering-light.md)

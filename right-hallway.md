@@ -2,9 +2,9 @@
 
 You step into the hallway, where a flickering light pulses like a heartbeat. As you move closer, you notice deep scratches carved into the walls. They look like claw marks.  
 
-The floor creaks under your weight, and suddenly, the light goes out. You're left in complete darkness.  
+The floor groans beneath your feet, and then, in an instant, the lights flicker and go out. You’re plunged into utter darkness.
 
-A low growl echoes from somewhere ahead. Your heart pounds as the sound grows louder.  
+A deep, menacing growl reverberates through the space, growing louder with every passing second. Your pulse races as the sound draws nearer. 
 
 You see a faint glow ahead. What will you do?  
 1. [Move toward the glow](glow.md)  

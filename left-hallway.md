@@ -8,5 +8,5 @@ Suddenly, the crying stops. The silence is deafening. You hear a faint whisper d
 You turn around, but the space is empty—no footsteps, no presence, only the silence pressing in around you.
 
 Before you, the hallway forks into two distinct paths, each shrouded in its own mystery. 
-1. [Follow the sound of footsteps](footsteps.md)  
-2. [Enter the room with the flickering light](flickering-light.md)
+1. [Follow the sound of footsteps](follow-footsteps.md)  
+2. [Enter the room with the flickering light](enter-room.md)

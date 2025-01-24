@@ -4,8 +4,8 @@ The heavy wooden door is cold to the touch. You hear slow, heavy breathing on th
 
 Your curiosity gets the better of you. You twist the rusted doorknob, and the door creaks open to reveal steep stairs leading into darkness.  
 
-A faint red glow comes from below. You hear a voice whisper, almost a growl:  
-"Come closer..."  
+A dim red light pulses from beneath, casting eerie shadows. A voice slithers from the depths, low and menacing:  
+"Step closer..." 
 
 What will you do?  
 1. [Descend into the basement](basement.md)  

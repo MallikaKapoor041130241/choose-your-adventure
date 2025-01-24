@@ -1,4 +1,4 @@
- The Spiral Staircase  
+# The Spiral Staircase  
 
 The smell of smoke grows stronger as you approach the staircase. Ash coats the wooden railing, and the air feels warmer.  
 

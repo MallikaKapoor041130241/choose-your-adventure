@@ -81,16 +81,16 @@ Each choice you make will lead you to a new path and a different chapter of the 
 
 1. **The Left Hallway**  
    - **Path options**: Follow the footsteps or enter the room with flickering light.  
-   - **Files**: `left-footsteps.md`, `flickering-light.md`
+   - **Files**: `follow-footsteps.md`, `enter-room.md`
    
 2. **The Spiral Staircase**  
    - **Path options**: Continue up the stairs or turn back to the hallway.  
-   - **Files**: `staircase-up.md`, `right-hallway.md`
+   - **Files**: `upstairs.md`, `hallway.md`
    
 3. **The Basement Door**  
    - **Path options**: Descend into the basement or close the door and walk away.  
-   - **Files**: `basement-down.md`, `left-hallway.md`
+   - **Files**: `basement-down.md`, `hallway.md`
    
 4. **The Right Hallway**  
    - **Path options**: Move toward the glow or run back to the entrance.  
-   - **Files**: `glow-path.md`, `left-hallway.md`
+   - **Files**: `glow.md`, `hallway.md`
